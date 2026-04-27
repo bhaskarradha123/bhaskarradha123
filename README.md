@@ -1,6 +1,6 @@
  # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+This+is+Radha;Self+taught+java+Backend+Developer+!!)
 
-<h3 align="left">I'm a Java & Spring developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Django,Servlets,Jsp,Hibernate and also well versed in Spring.  Take a look at my repositories - some of my best works are pinned here..</h3>
+<h3 align="left">I'm a Java & Spring developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Django, Servlets,Jsp,Hibernate and also well versed in Spring.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
 - 🔭 I’m currently working as Associate Software Engineer
 - 👯 I’m looking to collaborate on Backend Projects
